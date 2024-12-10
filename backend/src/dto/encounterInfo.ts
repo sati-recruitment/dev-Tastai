@@ -4,5 +4,5 @@ export type encounterInfo = {
     physicalExamination: string;
     diagnosis: string;
     presentIllness: string;
-    patientHospitalNumber?: string;
+    patientHospitalNumber: string;
 };
